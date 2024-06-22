@@ -1,0 +1,27 @@
+{
+  "name": "user-api",
+  "version": "1.0.0",
+  "description": "user backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "author": "Yousri FAKHFAKH",
+  "license": "ISC",
+  "dependencies": {
+    "@types/express": "^4.17.21",
+    "@types/mongoose": "^5.11.97",
+    "@types/node": "^20.14.8",
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.18.2",
+    "express-async-handler": "^1.2.0",
+    "joi": "^17.12.1",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.1.1",
+    "typescript": "^5.5.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
