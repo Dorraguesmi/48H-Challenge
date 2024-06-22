@@ -1,24 +1,40 @@
-Here we Have our Work For the 48H challenge
+# 48-Hour Challenge Project
 
- 
-+ For The First Part, we Have the FrontEnd Part : 
-A Weather Template : 
-Technologies : 
-+ React Js
-+ TypeScript
+This repository contains two parts developed for the 48-hour challenge: a frontend Weather Template and a backend Employee Management system.
 
-To run The Application :
+## Frontend - Weather Template
+
+### Description:
+The Weather Template frontend application displays weather information using React.js and TypeScript.
+
+### Technologies:
+- Reactjs
+- TypeScript
+
+### Running the Application:
+To run the frontend application locally:
+
 ```
+git clone https://github.com/Dorraguesmi/48H-Challenge
+cd Frontend Technical Challenge/weather-dashboard-application
 npm start
 ```
 
-+ For The Second Part, We Have the Backend Part  : 
-Employee Management : 
-Technologies :
-+ Node Js
-+ TypeScript 
+## Backend - Employee Management
 
-To run The Application : 
+### Description:
+The Employee Management backend application manages employee data using Node.js and TypeScript.
+
+### Technologies:
+- Nodejs
+- TypeScript
+
+### Running the Application:
+To run the backend application locally:
+
 ```
+git clone https://github.com/Dorraguesmi/48H-Challenge
+cd Backend Technical Challenge
 npm start
+
 ```
